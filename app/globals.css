@@ -2,3 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Adding Sahel font to our webpage */
+@font-face {
+  font-family: Sahel;
+  src: url("/assets/fonts/Sahel/Sahel Regular/Sahel Regular.ttf") format("truetype");
+  font-weight: normal;
+}
